@@ -1,0 +1,23 @@
+.tab {
+  margin: 10px;
+  list-style-type: none;
+  display: flex;
+}
+.btn {
+  padding: 12px;
+  border-radius: 20px;
+  width: 100px;
+  font-weight: bold;
+  color: #db1c48;
+  border: 1px solid #db1c48;
+  background-color: #ffffff;
+  font-family: 'Roboto';
+}
+.active {
+  background-color: #db1c48;
+  color: #ffffff;
+}
+.image {
+  height: 400px;
+  width: 400px;
+}
